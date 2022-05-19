@@ -3,13 +3,18 @@
  front end was done using HTML and CSS,
  backend was done using HTML, CSS, PHP and MySQL using Apache Server via Xampp Control Panel,
  
-<!--   Instruction to copy and paste the file and folder -->
+ 
+/* ------------------------------- NOTE ----------------------------*/ 
+
+ 
+1. Unzip the zip files and import the database in to the server 
+2. Unzip the zi[ foles copy and paste the folder which contain all the code files, inside into xampp location
+ 
+<!--   database sql file name and Folder name -->
 
 food-order = this was the sql file name, which is the database
 Food-Order-Complete-Website = this was the folder name which contain all code files insde, use this folder in code editor
 
-1. import the database in to the server 
-2. copy and paste the folder which contain all the code files inside into xampp location
 
 <!--  links to  Access the website -->
 
